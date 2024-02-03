@@ -36,5 +36,5 @@ The fifth query identified the top 5 products ranked by Incremental Revenue Perc
 Query Output:
 
 
-Conclusion:
+### Conclusion:
 The data analysis provided valuable insights into high-value products, store distribution, campaign performance, and product-specific revenue gains. These findings can guide strategic decisions and optimizations in pricing, promotions, and product offerings to enhance overall retail performance.
