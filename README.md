@@ -17,20 +17,20 @@ Query Output:
 
 
 
-Query 3: Campaign Revenue Analysis:
+### Query 3: Campaign Revenue Analysis:
 The third query presented a report displaying each campaign along with total revenue before and after the campaign. This assists in evaluating the financial impact of promotional campaigns.
 
 Query Output:
 
 
-Query 4: Diwali Campaign ISU% and Rankings:
+### Query 4: Diwali Campaign ISU% and Rankings:
 The fourth query calculated the Incremental Sold Quantity (ISU%) for each category during the Diwali campaign and provided rankings. This information helps assess the category-wise success and impact of the Diwali campaign on incremental sales.
 
 Query Output:
 
 
 
-Query 5: Top 5 Products by Incremental Revenue Percentage (IR%):
+### Query 5: Top 5 Products by Incremental Revenue Percentage (IR%):
 The fifth query identified the top 5 products ranked by Incremental Revenue Percentage (IR%) across all campaigns. This analysis assists in optimizing product offerings for maximum revenue.
 
 Query Output:
